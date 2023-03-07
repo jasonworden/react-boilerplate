@@ -1,6 +1,8 @@
 # Getting Started with JasonReactBoilerplate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [JasonReactBoilerplate](https://github.com/jasonworden/interviews-react-boilerplate),
+which is a lightweight React boilerplate template repository based upon
+[Create React App](https://github.com/facebook/create-react-app).
 
 The bulk of the relevant code is in `src/components` and `src/lib`.
 
