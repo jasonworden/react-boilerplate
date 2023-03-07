@@ -3,7 +3,7 @@
     "npm": "please-use-yarn",
     "yarn": ">= 1.19.1"
   },
-  "name": "jasonworden/interviews-react-boilerplate",
+  "name": "jason-react-boilerplate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
