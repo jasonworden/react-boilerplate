@@ -1,4 +1,9 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
+# If you are having issues running this in a git app such as Sourcetree, please see the following ~/.huskyrc fix at
+#   https://github.com/typicode/husky/issues/390#issuecomment-545855628
+#export NVM_DIR="$HOME/.nvm"
+#[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+
 yarn run lint-staged
